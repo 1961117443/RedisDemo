@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>Redis.List.OrderService</AssemblyName>
+    <RootNamespace>Redis.List.OrderService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EntityModel\EntityModel.csproj" />
+  </ItemGroup>
+
+</Project>
